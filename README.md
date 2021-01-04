@@ -1,4 +1,6 @@
-### I am Pratik Majumdar, a student from Computer Science and Engineering at National Institute of Technology, Silchar, Assam. A technical geek who is completely interested in AI, ML & Web Development.
+### Hi there 👋
+
+I am Pratik Majumdar, a student from Computer Science and Engineering at National Institute of Technology, Silchar, Assam. A technical geek who is completely interested in AI, ML & Web Development.
 
 <!--
 **zippy-coder/zippy-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
