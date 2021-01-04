@@ -3,6 +3,8 @@
 <!--
 **zippy-coder/zippy-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on Django based website.
 - 🌱 I’m currently learning Django, NodeJS, React and some other web frameworks.
 - 🤔 I’m looking for help with Git/Github. :(
