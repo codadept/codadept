@@ -12,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still don't know about Anime!
 
+### My field of expertise include-
+
+- Python
+- Django
+- NodeJS and Express
+- MongoDB
+- SQL
