@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratik-majumdar-434621198/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still don't know about Anime!
--->
+
