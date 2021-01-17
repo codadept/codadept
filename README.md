@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django, NodeJS, React and some other web frameworks.
 - 🤔 I’m looking for help with Git/Github. :(
 - 💬 Ask me about Django!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratik-majumdar-434621198/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/codadept/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still don't know about Anime!
 
