@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 ### My field of expertise include
 
 <div align="center" width=100%>
-    <img title="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+    <code><img title="Python" height="50" src="./icons/python.svg"></code>
+    <code><img title="C++" height="50" src="./icons/cpp.svg"></code>
+    <code><img title="C" height="50" src="./icons/c-programming.svg"></code>
 </div>
