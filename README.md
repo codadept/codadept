@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still don't know about Anime!
 
-### My field of expertise include-
+### My field of expertise include
 
-- Python
-- Django
-- NodeJS and Express
-- MongoDB
-- SQL
+<div align="center" width=100%>
+    <img title="Python" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+</div>
