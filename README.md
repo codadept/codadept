@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 ### My field of expertise include
 
 <div align="center" width=100%>
-    <code><img title="Python" height="50" src="./icons/python.svg"></code>
-    <code><img title="C++" height="50" src="./icons/cpp.svg"></code>
-    <code><img title="C" height="50" src="./icons/c-programming.svg"></code>
+    <img title="Python" height="50" src="./icons/python.svg">
+    <img title="C++" height="50" src="./icons/cpp.svg">
+    <img title="C" height="50" src="./icons/c-programming.svg">
+    <img title="C" height="50" src="./icons/javascript.svg">
+    <img title="C" height="50" src="./icons/html5.svg">
+    <img title="C" height="50" src="./icons/html5.svg">
+    <img title="C" height="50" src="./icons/css-3.svg">
+    <img title="C" height="50" src="./icons/nodejs.svg">
+    <img title="C" height="50" src="./icons/angular.svg">
+    <img title="C" height="50" src="./icons/react.png">
+    <img title="C" height="50" src="./icons/typescript.svg">
+    <img title="C" height="50" src="./icons/mongodb.svg">
+    <img title="C" height="50" src="./icons/django.svg">
 </div>
