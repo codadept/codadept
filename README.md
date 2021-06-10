@@ -50,6 +50,7 @@ I am Pratik Majumdar, a student from Computer Science and Engineering at [Nation
     <img title="TypeScript" height="50" src="./icons/typescript.svg">
     <img title="MongoDB" height="50" src="./icons/mongodb.svg">
     <img title="Django" height="50" src="./icons/django.svg">
+    <img title="MySQL" height="50" src="./icons/mysql.png">
     <img title="Git" height="50" src="./icons/git.png">
 </div>
 <br>
