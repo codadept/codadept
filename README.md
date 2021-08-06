@@ -80,7 +80,6 @@ Look at my [resume]().
 ## Checkout my highlights ⚙
 
 <br>
-<br>
 
 <div align="center" width="100%">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codadept&layout=compact&theme=dracula">
@@ -97,8 +96,6 @@ Look at my [resume]().
 
 <hr>
 
-<br>
-
 ## Something more about me 🙋
 
 - 🔭 I’m currently working on Single Page Applications.
@@ -108,6 +105,4 @@ Look at my [resume]().
 - 📫 You can reach me here: [LinkedIn](https://www.linkedin.com/in/codadept/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still don't know about Anime!
-<br>
-<br>
 <hr>
