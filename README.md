@@ -106,3 +106,7 @@ Look at my [resume](https://drive.google.com/file/d/1WrmvAO-tI5SCtnPcArFYQw-LeiZ
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still don't know about Anime!
 <hr>
+<br>
+
+![snake gif](https://github.com/codadept/codadept/blob/output/github-contribution-grid-snake.gif)
+
