@@ -53,7 +53,7 @@ Look at my [resume](https://drive.google.com/file/d/1WrmvAO-tI5SCtnPcArFYQw-LeiZ
 
   - First Year
 
-    - Co-Dev with [@resyfer (Saurav Pal)](https://www.github.com/resyfer/resyfer), [Official Website of Physics Dept.](http://www.nits.ac.in/departments/physics/physics.php), NIT Silchar (June, 2021 - Present)
+    - Co-Dev with [@resyfer (Saurav Pal)](https://www.github.com/resyfer), [Official Website of Physics Dept.](http://www.nits.ac.in/departments/physics/physics.php), NIT Silchar (June, 2021 - Present)
 
 <br>
 <hr>
