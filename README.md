@@ -4,7 +4,7 @@
 
 # Hey viewer 👋
 
-I am Pratik Majumdar, a student from Computer Science and Engineering at [National Institute of Technology, Silchar, Assam.](https://www.nits.ac.in) A technical geek who is completely interested in AI, ML & Web Development. Love to learn new technology and implement it in my projects. I'm currently into Web Development and working on my Data Structures and Algorithm.\
+I am Pratik Majumdar (<i>codadept</i>), a student from Computer Science and Engineering at [National Institute of Technology, Silchar, Assam.](https://www.nits.ac.in) A technical geek who is completely interested in AI, ML & Web Development. Love to learn new technology and implement it in my projects. I'm currently into Web Development and working on my Data Structures and Algorithm.\
 Look at my [resume](https://drive.google.com/file/d/1WrmvAO-tI5SCtnPcArFYQw-LeiZRZAWv/view?usp=sharing).
 
 <br>
@@ -40,6 +40,21 @@ Look at my [resume](https://drive.google.com/file/d/1WrmvAO-tI5SCtnPcArFYQw-LeiZ
 </div>
 
 <br>
+<br>
+<hr>
+
+## Position of responsibility
+
+<br>
+
+  - Second Year
+
+    - Member, Wev Developer Team, [Google Developer Student Club](https://www.facebook.com/gdscnits), NIT Silchar (August, 2021 - Present)
+
+  - First Year
+
+    - Co-Dev with [@resyfer (Saurav Pal)](https://www.github.com/resyfer/resyfer), [Official Website of Physics Dept.](http://www.nits.ac.in/departments/physics/physics.php), NIT Silchar (June, 2021 - Present)
+
 <br>
 <hr>
 
