@@ -78,7 +78,7 @@ Look at my [resume](https://drive.google.com/file/d/1WrmvAO-tI5SCtnPcArFYQw-LeiZ
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=info.pratikmajumdar@gmail.com&tf=1">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/codadept/:">
+  <a href="https://www.linkedin.com/in/codadept">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/itspratikmaj">
