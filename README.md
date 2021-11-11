@@ -104,6 +104,10 @@ Look at my [resume](https://drive.google.com/file/d/1WrmvAO-tI5SCtnPcArFYQw-LeiZ
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=codadept&show_icons=true&theme=dracula&count_private=t&hide=stars">
 </div>
 
+<br>
+
+[![Badge](https://cp-logo.vercel.app/codechef/codadept?logo=true)](https://www.codechef.com/users/codadept) [![Badge](https://cp-logo.vercel.app/codeforces/codadept?logo=true)](https://cp-logo.vercel.app/codeforces/codadept)
+
 <br><br>
 
 <div align="center">
