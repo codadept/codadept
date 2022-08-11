@@ -50,6 +50,11 @@ Look at my [resume](https://bit.ly/Pratik_Majumdar).
 
 <br>
 
+  - Third Year
+
+    - Core Member, [Google Developer Student Club](https://www.facebook.com/gdscnits), NIT Silchar (August, 2021 - Present)
+
+
   - Second Year
 
     - Member, Wev Developer Team, [Google Developer Student Club](https://www.facebook.com/gdscnits), NIT Silchar (August, 2021 - Present)
